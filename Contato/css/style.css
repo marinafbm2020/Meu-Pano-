@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(229, 233, 242, 70);
+}
+
+main {
+    padding-top: 100px;
+
+}
+
+div {
+    margin: auto;
+    padding-top: 2px;
+    
+} 
+#comentarioUsuario {
+    height: 100px;
+    
+}
